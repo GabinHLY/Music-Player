@@ -11,20 +11,16 @@ Bienvenue dans le dépôt du **Music Player**, une application web de lecteur de
 
 ## 🛠️ Installation
 
-1. **Clonez ce dépôt** :
-   ```bash
+1. Clonez ce dépôt :
    git clone https://github.com/tonpseudo/music-player.git
 
-2.**Accédez au répertoire du projet** :
-```bash
-cd music-player
+2. Accédez au répertoire du projet :
+   cd music-player
 
-3.**Installez les dépendances** :
-```bash
-npm install
+3. Installez les dépendances :
+   npm install
 
-4.**Lancez l'application en local** :
-```bash
+4. Lancez l'application en local :
 npm start
 
 Ouvrez http://localhost:3000 dans votre navigateur pour voir l'application.
