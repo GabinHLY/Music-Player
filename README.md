@@ -1,48 +1,49 @@
-# Music-Player-avec-React-et-Kitchn-CSS-
+Music Player 🎵🎧
+Bienvenue dans le Music Player, une application web moderne et intuitive pour écouter de la musique.
+Développé avec React et stylisé avec Kitchn CSS, ce projet offre une interface élégante et fluide.
 
-Bienvenue dans le dépôt du **Music Player**, une application web de lecteur de musique moderne et conviviale. Ce projet a été développé avec **React** et stylisé avec la bibliothèque **Kitchn CSS**.
+🎯 Fonctionnalités
+▶️ Lecture/Pause des morceaux.
+⏭️ Navigation entre les pistes.
+📱 Interface responsive adaptée à tous les appareils.
+🎨 Design épuré grâce à Kitchn CSS.
+🚀 Installation
 
-## 🎯 Fonctionnalités
 
-- 🎵 Lecture et pause des morceaux.
-- ⏭️ Navigation entre les pistes.
-- 📱 Interface responsive pour une expérience optimale sur tous les appareils.
-- 🎨 Design élégant grâce à Kitchn CSS.
+1️⃣ Cloner le dépôt
 
-## 🛠️ Installation
+git clone https://github.com/GabinHLY/music-player.git
+cd music-player
 
-1. Clonez ce dépôt :
-   git clone https://github.com/GabinHLY/music-player.git
+2️⃣ Installer les dépendances
 
-2. Accédez au répertoire du projet :
-   cd music-player
+npm install
 
-3. Installez les dépendances :
-   npm install
+3️⃣ Lancer l'application
 
-4. Lancez l'application en local :
 npm start
 
-Ouvrez http://localhost:3000 dans votre navigateur pour voir l'application.
+➡️ Ouvrez http://localhost:3000 dans votre navigateur pour voir l'application.
 
-
-🌟 Technologies utilisées
-
-React : Bibliothèque JavaScript pour construire l'interface utilisateur.
-Kitchn CSS : Bibliothèque CSS pour un design moderne et minimaliste.
-
-📈 Évolutions futures
-Voici quelques fonctionnalités prévues pour les futures versions :
+🛠 Technologies utilisées
+⚛️ React - Construction de l'interface utilisateur.
+🎨 Kitchn CSS - Design moderne et minimaliste.
+🔥 Évolutions prévues
+📌 Prochaines fonctionnalités :
 
 🎧 Création et gestion de playlists personnalisées.
 🌙 Mode sombre pour une meilleure expérience utilisateur.
 🔊 Égaliseur audio interactif.
-💾 Sauvegarde des préférences de l'utilisateur.
-
+💾 Sauvegarde des préférences utilisateur.
 🤝 Contribution
-Les contributions sont les bienvenues ! Si vous souhaitez signaler un problème ou proposer des améliorations, n'hésitez pas à ouvrir une issue ou une pull request.
+Les contributions sont les bienvenues ! 🎉
+📌 Vous pouvez :
 
+Signaler un problème en ouvrant une issue.
+Proposer des améliorations via une pull request.
 📜 Licence
 Ce projet est sous licence MIT.
 
-Développeur : Gabin
+👤 Développeur
+Gabin DUBOC – GitHub
+
